@@ -1,12 +1,12 @@
 {
-  "name": "jcs224/faktory_worker_php5",
-  "description": "Faktory job queue library for PHP. Compatible with PHP 5.6",
+  "name": "jcs224/faktory_worker_php7",
+  "description": "Faktory job queue library for PHP. Compatible with PHP 7",
   "license": "MIT",
   "type": "library",
   "authors": [
     {
-      "name": "Joe Sweeney",
-      "email": "joe.sweeney224@gmail.com"
+      "name": "dave dziak",
+      "email": "dave.dziak@homeeondemand.com"
     }
   ],
   "require": {
